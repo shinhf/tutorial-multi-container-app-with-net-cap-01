@@ -1,0 +1,2 @@
+docker build . -t acrmulticontainerwordpressdev/multicontainerwordpress:1.0
+docker push 
